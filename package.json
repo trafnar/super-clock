@@ -1,0 +1,13 @@
+{
+  "name": "superclock",
+  "scripts": {
+    "start": "imba -w server.imba",
+    "build": "imba build server.imba"
+  },
+  "dependencies": {
+    "date-fns": "^2.25.0",
+    "express": "^4.17.1",
+    "imba": "^2.0.0-alpha.146",
+    "popmotion": "^11.0.0"
+  }
+}
